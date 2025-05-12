@@ -1,1 +1,1 @@
-Promera nota en Git, saludos.
+Primera nota en Git, saludos.
